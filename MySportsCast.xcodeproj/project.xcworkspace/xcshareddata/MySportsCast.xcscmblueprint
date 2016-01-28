@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8F33EC3B209DA3AFCDAF3B0B075D6EF143E181D3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "4acb82bf-45c4-459c-a24d-65e7752386e7++5833" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8F33EC3B209DA3AFCDAF3B0B075D6EF143E181D3" : 0,
+    "4acb82bf-45c4-459c-a24d-65e7752386e7++5833" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2160286D-BE24-40B7-AFB6-231C690CFCAC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8F33EC3B209DA3AFCDAF3B0B075D6EF143E181D3" : "MysportCast\/",
+    "4acb82bf-45c4-459c-a24d-65e7752386e7++5833" : "MysportCast\/MySportsCast\/classes\/base64\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MySportsCast",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MySportsCast.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/repo.flipdevnet.com\/svn\/osx",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4acb82bf-45c4-459c-a24d-65e7752386e7++5833"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/Venkatesh_Sparsh\/mysportscast.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8F33EC3B209DA3AFCDAF3B0B075D6EF143E181D3"
+    }
+  ]
+}
